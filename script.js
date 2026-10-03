@@ -22,3 +22,6 @@ console.log(gpa);
 //true or false
 let isStudent = true;
 let isVA = false;
+
+console.log(isStudent);
+console.log(isVA);
